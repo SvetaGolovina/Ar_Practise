@@ -1,5 +1,7 @@
 # Ar_Practise
 
+## Описание 
+
 СПбГУ, ПМ-ПУ, курс "Grid & Cloud".
 
 Интернет магазин с возможностью просмотра товаров технологией дополненной реальности.
@@ -12,9 +14,9 @@
 
 
 ## Полезные ссылки:
-  - ul Демонстрация работы приложения: https://www.youtube.com/watch?v=ogc-NnLgDfE
-  - ul Реализация предыдущей версии: https://github.com/sergere15/Ar_Game_Practise/
-  - ul Реализация серверной чати на java: https://github.com/EvgenyOleshkevich/java-practice
+  - Демонстрация работы приложения: https://www.youtube.com/watch?v=ogc-NnLgDfE
+  - Реализация предыдущей версии: https://github.com/sergere15/Ar_Game_Practise/
+  - Реализация серверной чати на java: https://github.com/EvgenyOleshkevich/java-practice
 
 
 ## Более детальное описание проекта и его возможностей:
